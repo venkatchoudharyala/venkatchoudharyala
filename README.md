@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Deep Fake Detection**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **DL**
 
 - 📫 How to reach me **venkatchoudhary.ala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/venkatchoudharyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkatchoudharyala" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/venkat choudhary ala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat choudhary ala" height="30" width="40" /></a>
 <a href="https://instagram.com/@mejustmarshal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mejustmarshal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/venkatchoudharyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkatchoudharyala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
